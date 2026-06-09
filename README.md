@@ -121,12 +121,13 @@ npm run build
 
 
 
-🐙 GitHub
+[![GitHub](https://img.shields.io/badge/GitHub-Artaaaaux-181717?style=for-the-badge&logo=github)](https://github.com/Artaaaaux) GitHub
 
 https://github.com/Artaaaaux
 
 
-<img src="https://cdn.simpleicons.org/discord" width="18" /> Discord
+
+[![Discord](https://img.shields.io/badge/Discord-artaaaux-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
 
 Username: artaaaaux
 
