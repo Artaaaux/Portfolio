@@ -112,11 +112,17 @@ npm run build
 
 ## 👨‍💻 Contact
 
-[![Email](https://img.shields.io/badge/Email-azadirachta.perwira%40gmail.com-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:azadirachta.perwira@gmail.com)
+[![Email](https://img.shields.io/badge/Email-azadirachta.perwira%40gmail.com-EA4335?style=flat-square\&logo=gmail\&logoColor=white)]
 
-[![GitHub](https://img.shields.io/badge/GitHub-Artaaaaux-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/Artaaaaux)
+azadirachta.perwira@gmail.com
 
-[![Discord](https://img.shields.io/badge/Discord-artaaaaux-5865F2?style=flat-square\&logo=discord\&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-Artaaaaux-181717?style=flat-square\&logo=github\&logoColor=white)]
+
+https://github.com/Artaaaaux
+
+[![Discord](https://img.shields.io/badge/Discord-artaaaaux-5865F2?style=flat-square\&logo=discord\&logoColor=white)]
+
+Username: artaaaaux
 
 
 ## ⭐ Support
