@@ -79,7 +79,7 @@ Official student organization website built with a modern responsive design.
 Add screenshots here after deployment.
 
 ```md
-![Homepage](./public/screenshots/homepage.png)
+![Homepage](public/screenshots/homepage.png)
 ```
 
 ---
