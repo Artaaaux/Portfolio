@@ -118,10 +118,6 @@ npm run build
 
 [azadirachta.perwira@gmail.com](mailto:azadirachta.perwira@gmail.com)
 
-📱 WhatsApp
-
-+62 87789355213
-
 🐙 GitHub
 
 https://github.com/Artaaaaux
